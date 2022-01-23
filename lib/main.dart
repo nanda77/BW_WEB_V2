@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:buildworks/screens/main/main_screen.dart';
 
 import 'landingpage/views/landing_page.dart';
-import 'landingpage/views/smalllanding_page.dart'; //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
+import 'landingpage/views/smalllanding_page.dart'; //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
 
 StreamController<int> streamController = StreamController<int>();
 
