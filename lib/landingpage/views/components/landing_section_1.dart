@@ -32,7 +32,7 @@ class LandingSection1 extends StatelessWidget {
 
         children: [
           Expanded(
-            // flex: 2,
+            flex: 2,
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
@@ -41,7 +41,7 @@ class LandingSection1 extends StatelessWidget {
                   margin: EdgeInsets.only(left: 75),
                   // width: 496,
                   child: Text(
-                    "Manage",
+                    "Managex",
                     style: GoogleFonts.montserrat(
                         fontSize: 42,
                         fontWeight: FontWeight.bold,
